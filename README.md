@@ -1,5 +1,5 @@
 # 💫 About Me:
-✌️ Hello There, I am Sara Emilie<br>🖋 I’m interested in game development, 3D-art and music<br>🔭 I’m currently working on some smaller Unreal 5 projects<br>🌱 I’m currently learning Unreal Engine 5, Unity, C#, C++ & OpengGL<br>💞 I’m looking to collaborate on any game project<br>📫 How to reach me: selauvstad@gmail.com
+✌️ Hello There, I am Sara Emilie<br>🖋 I’m interested in game development, 3D-art and music<br>🔭 I’m currently working on some smaller Unreal 5 projects, and some university related projects <br>🌱 I’m currently learning Unreal Engine 5, Unity, C#, C++ & OpengGL<br>💞 I’m looking to collaborate on any game project<br>📫 How to reach me: selauvstad@gmail.com
 
 
 # 💻 Tech Stack:
